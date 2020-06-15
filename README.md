@@ -2,4 +2,4 @@
 
 Notes about programming
 
-[Русский](/ru/README.md)
+[Русский](/ru.md)
